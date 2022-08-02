@@ -1,0 +1,4 @@
+(version 1)
+(rule GND_WIDTH
+   (constraint track_width (min 0.5mm))
+   (condition "A.NetClass == 'GND'"))

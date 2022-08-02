@@ -1,0 +1,6 @@
+*.kicad_pcb-bak
+*.bak
+*.zip
+sym-lib-table
+fp-info-cache
+fp-lib-table
